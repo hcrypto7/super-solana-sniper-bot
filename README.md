@@ -54,7 +54,7 @@ To run the script you need to:
 16. `STOP_LOSS=50` (in %)
 17. `BIRDEYE_API_KEY=` (TP/SL, Burn/Lock) generate here : https://birdeye.so/user/profile#security
 
-![](https://github.com/spaceboundbot/solana-sniper-bot/blob/4c8ba4fb94b98527a85c2c5cdf4fee673ed45cef/readme/envimg.png)
+![](https://github.com/spaceboundbot/solana-sniper-bot/blob/b175f863903a5c44caa52e6332801d8267db3ed5/readme/envsettings.png)
   
 ## 🛸 INSTALL
 1. Install dependencies by typing: `npm install`
